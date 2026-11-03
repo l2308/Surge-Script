@@ -1,0 +1,29 @@
+# 红果短剧去广告 REJECT 规则集
+# 用法: RULE-SET,https://raw.githubusercontent.com/l2308/Surge-Script/master/hongguo-reject.list,REJECT
+
+DOMAIN-KEYWORD,-reading-ad.qznovelvod.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,mon.toutiaocloud.net
+DOMAIN-SUFFIX,mon.toutiaocloud.com
+DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,i-lq.snssdk.com
+DOMAIN-SUFFIX,is.snssdk.com
+DOMAIN-SUFFIX,is-lq.snssdk.com
+DOMAIN-SUFFIX,praisewindow.ugsdk.cn
+DOMAIN-SUFFIX,praisewindow-sinfonlinea.ugsdk.cn
+DOMAIN-SUFFIX,zlink.ugsdk.cn
+DOMAIN-SUFFIX,chengzijianzhan.com
+DOMAIN-KEYWORD,-misc-lq.fqnovel.com
+DOMAIN-KEYWORD,-misc.fqnovel.com
+DOMAIN-KEYWORD,-applog-lq.fqnovel.com
+DOMAIN-KEYWORD,-normal.zijieapi.com
+DOMAIN-KEYWORD,-normal-lq.zijieapi.com
+DOMAIN-KEYWORD,-ad-sign.byteimg.com
+DOMAIN-KEYWORD,-developer-sign.bytemaimg.com
+DOMAIN-KEYWORD,-normal-lq.ecombdapi.com
+DOMAIN-KEYWORD,-core-lq.ecombdapi.com

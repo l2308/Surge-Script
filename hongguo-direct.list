@@ -1,0 +1,8 @@
+# 红果短剧去广告 DIRECT 规则集
+# 用法: RULE-SET,https://raw.githubusercontent.com/l2308/Surge-Script/master/hongguo-direct.list,DIRECT
+
+DOMAIN-SUFFIX,fqnovelvod.com
+DOMAIN-SUFFIX,n98-v-readingvideo.qznovelvod.com
+DOMAIN-SUFFIX,p3-ad-sign.byteimg.com
+DOMAIN-SUFFIX,p3-tt.byteimg.com
+DOMAIN-SUFFIX,qznovelvod.com
