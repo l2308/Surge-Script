@@ -1,4 +1,4 @@
-# 中国常用 App/服务直连规则集
+# 中国 Top500 常用 App/服务直连规则集（500 个域名）
 # 用法: RULE-SET,https://raw.githubusercontent.com/l2308/Surge-Script/master/China-Apps-Direct.list,DIRECT
 # 说明：域名本身不带策略，策略由引用处的 RULE-SET 行指定。含截图里确认过的红果/豆包/拼多多/番茄/京东/米家域名。
 
@@ -169,3 +169,481 @@ DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
+
+# > 社交
+DOMAIN-SUFFIX,immomo.com
+DOMAIN-SUFFIX,momocdn.com
+DOMAIN-SUFFIX,tantan.com
+DOMAIN-SUFFIX,soulapp.cn
+DOMAIN-SUFFIX,lofter.com
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,taptap.cn
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.com
+DOMAIN-SUFFIX,weishi.com
+DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,inke.cn
+DOMAIN-SUFFIX,huajiao.com
+
+# > 资讯/门户
+DOMAIN-SUFFIX,sohu.com
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,thepaper.cn
+DOMAIN-SUFFIX,jiemian.com
+DOMAIN-SUFFIX,guancha.cn
+DOMAIN-SUFFIX,huanqiu.com
+DOMAIN-SUFFIX,people.com.cn
+DOMAIN-SUFFIX,peopledaily.com.cn
+DOMAIN-SUFFIX,xinhuanet.com
+DOMAIN-SUFFIX,news.cn
+DOMAIN-SUFFIX,chinanews.com
+DOMAIN-SUFFIX,chinanews.com.cn
+DOMAIN-SUFFIX,gmw.cn
+DOMAIN-SUFFIX,xuexi.cn
+DOMAIN-SUFFIX,huxiu.com
+DOMAIN-SUFFIX,36kr.com
+DOMAIN-SUFFIX,tmtpost.com
+DOMAIN-SUFFIX,caixin.com
+DOMAIN-SUFFIX,yicai.com
+
+# > 长视频/直播补充
+DOMAIN-SUFFIX,le.com
+DOMAIN-SUFFIX,letv.com
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,qingting.fm
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,changba.com
+
+# > 电商补充
+DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,vipstatic.com
+DOMAIN-SUFFIX,dewu.com
+DOMAIN-SUFFIX,suning.com
+DOMAIN-SUFFIX,gome.com.cn
+DOMAIN-SUFFIX,dangdang.com
+DOMAIN-SUFFIX,yanxuan.com
+DOMAIN-SUFFIX,kaola.com
+DOMAIN-SUFFIX,fanli.com
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,zhuanzhuan.com
+DOMAIN-SUFFIX,aihuishou.com
+DOMAIN-SUFFIX,guazi.com
+DOMAIN-SUFFIX,jddj.com
+DOMAIN-SUFFIX,jdl.com
+
+# > 生活服务补充
+DOMAIN-SUFFIX,58.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,beike.com
+DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,fang.com
+DOMAIN-SUFFIX,huolala.cn
+DOMAIN-SUFFIX,sf-express.com
+DOMAIN-SUFFIX,ems.com.cn
+DOMAIN-SUFFIX,chinapost.com.cn
+DOMAIN-SUFFIX,yto.net.cn
+DOMAIN-SUFFIX,zto.com
+DOMAIN-SUFFIX,sto.cn
+DOMAIN-SUFFIX,yundaex.com
+DOMAIN-SUFFIX,deppon.com
+DOMAIN-SUFFIX,jtexpress.cn
+
+# > 出行补充
+DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,variflight.com
+DOMAIN-SUFFIX,airchina.com.cn
+DOMAIN-SUFFIX,csair.com
+DOMAIN-SUFFIX,ceair.com
+DOMAIN-SUFFIX,xiamenair.com
+DOMAIN-SUFFIX,ch.com
+DOMAIN-SUFFIX,mafengwo.cn
+DOMAIN-SUFFIX,qyer.com
+DOMAIN-SUFFIX,tuniu.com
+DOMAIN-SUFFIX,qunar.com
+DOMAIN-SUFFIX,autohome.com.cn
+DOMAIN-SUFFIX,bitauto.com
+DOMAIN-SUFFIX,pcauto.com.cn
+DOMAIN-SUFFIX,xcar.com.cn
+DOMAIN-SUFFIX,dongchedi.com
+
+# > 支付/金融
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,unionpaysecure.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,cmbc.com.cn
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,pingan.com
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,antfortune.com
+DOMAIN-SUFFIX,1234567.com.cn
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,gw.com.cn
+DOMAIN-SUFFIX,xueqiu.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,chinalife.com.cn
+DOMAIN-SUFFIX,cpic.com.cn
+DOMAIN-SUFFIX,picc.com
+DOMAIN-SUFFIX,zhongan.com
+DOMAIN-SUFFIX,gtja.com
+
+# > 阅读
+DOMAIN-SUFFIX,yuewen.com
+DOMAIN-SUFFIX,zhangyue.com
+DOMAIN-SUFFIX,jjwxc.net
+DOMAIN-SUFFIX,dedao.cn
+DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,xuetangx.com
+
+# > 工具
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,2345.com
+DOMAIN-SUFFIX,360.cn
+DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,jianguoyun.com
+DOMAIN-SUFFIX,sunlogin.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,shimo.im
+DOMAIN-SUFFIX,tower.im
+DOMAIN-SUFFIX,worktile.com
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,yinxiang.com
+DOMAIN-SUFFIX,meitu.com
+DOMAIN-SUFFIX,meipai.com
+DOMAIN-SUFFIX,cmcm.com
+
+# > 教育
+DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,zuoyebang.com
+DOMAIN-SUFFIX,gaotu100.com
+DOMAIN-SUFFIX,xdf.cn
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,offcn.com
+DOMAIN-SUFFIX,huatu.com
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,vipkid.com.cn
+DOMAIN-SUFFIX,liulishuo.com
+DOMAIN-SUFFIX,baicizhan.com
+DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,jiakaobaodian.com
+DOMAIN-SUFFIX,jxedt.com
+DOMAIN-SUFFIX,122.gov.cn
+DOMAIN-SUFFIX,chsi.com.cn
+
+# > 健康
+DOMAIN-SUFFIX,haodf.com
+DOMAIN-SUFFIX,dxy.cn
+DOMAIN-SUFFIX,dxy.com
+DOMAIN-SUFFIX,guahao.com
+DOMAIN-SUFFIX,chunyuyisheng.com
+DOMAIN-SUFFIX,alijk.com
+DOMAIN-SUFFIX,cudong.com
+DOMAIN-SUFFIX,boohee.com
+DOMAIN-SUFFIX,meiyou.com
+DOMAIN-SUFFIX,babytree.com
+DOMAIN-SUFFIX,mama.cn
+
+# > 办公/企业服务
+DOMAIN-SUFFIX,yonyou.com
+DOMAIN-SUFFIX,kingdee.com
+DOMAIN-SUFFIX,huaweicloud.com
+
+# > 智能家居/家电
+DOMAIN-SUFFIX,haier.com
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,gree.com
+DOMAIN-SUFFIX,hisense.com
+DOMAIN-SUFFIX,tcl.com
+DOMAIN-SUFFIX,ezviz.com
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,iqoo.com
+DOMAIN-SUFFIX,lenovo.com.cn
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,nubia.com
+
+# > 政务/公共服务
+DOMAIN-SUFFIX,sgcc.com.cn
+DOMAIN-SUFFIX,weather.com.cn
+
+# > 游戏
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,hypergryph.com
+DOMAIN-SUFFIX,3839.com
+DOMAIN-SUFFIX,4399.com
+DOMAIN-SUFFIX,7k7k.com
+DOMAIN-SUFFIX,233leyuan.com
+DOMAIN-SUFFIX,xd.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,37.com
+
+# > 旅行/票务补充
+
+# > 招聘
+DOMAIN-SUFFIX,51job.com
+DOMAIN-SUFFIX,zhaopin.com
+DOMAIN-SUFFIX,liepin.com
+DOMAIN-SUFFIX,lagou.com
+DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,maimai.cn
+DOMAIN-SUFFIX,linkedin.cn
+
+# > 婚恋
+DOMAIN-SUFFIX,jiayuan.com
+DOMAIN-SUFFIX,baihe.com
+DOMAIN-SUFFIX,zhenai.com
+
+# > 母婴/美妆
+DOMAIN-SUFFIX,haiziwang.com
+DOMAIN-SUFFIX,miyabaobei.com
+DOMAIN-SUFFIX,beibei.com
+DOMAIN-SUFFIX,meilishuo.com
+DOMAIN-SUFFIX,mogujie.com
+DOMAIN-SUFFIX,jumei.com
+
+# > 家居/装修/房产补充
+DOMAIN-SUFFIX,to8to.com
+DOMAIN-SUFFIX,jia.com
+DOMAIN-SUFFIX,ziroom.com
+DOMAIN-SUFFIX,5i5j.com
+DOMAIN-SUFFIX,tujia.com
+DOMAIN-SUFFIX,xiaozhu.com
+DOMAIN-SUFFIX,hunliji.com
+
+# > 汽车补充
+DOMAIN-SUFFIX,renrenche.com
+DOMAIN-SUFFIX,xin.com
+DOMAIN-SUFFIX,tuhu.cn
+DOMAIN-SUFFIX,zuche.com
+DOMAIN-SUFFIX,1hai.cn
+DOMAIN-SUFFIX,juneyaoair.com
+DOMAIN-SUFFIX,scal.com.cn
+DOMAIN-SUFFIX,shenzhenair.com
+DOMAIN-SUFFIX,sda.cn
+
+# > 美食/茶饮
+DOMAIN-SUFFIX,xiachufang.com
+DOMAIN-SUFFIX,meishij.net
+DOMAIN-SUFFIX,douguo.com
+DOMAIN-SUFFIX,kfc.com.cn
+DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,starbucks.com.cn
+DOMAIN-SUFFIX,luckincoffee.com
+DOMAIN-SUFFIX,heytea.com
+
+# > 运动健身补充
+
+# > 天气
+DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,qweather.com
+
+# > 安全/邮箱
+DOMAIN-SUFFIX,ijinshan.com
+DOMAIN-SUFFIX,rising.com.cn
+DOMAIN-SUFFIX,huorong.cn
+DOMAIN-SUFFIX,139.com
+
+# > 社区/资讯补充
+DOMAIN-SUFFIX,tianya.cn
+DOMAIN-SUFFIX,mop.com
+DOMAIN-SUFFIX,dongqiudi.com
+DOMAIN-SUFFIX,pconline.com.cn
+DOMAIN-SUFFIX,zol.com.cn
+DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,mydrivers.com
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,geekpark.net
+DOMAIN-SUFFIX,cyzone.cn
+DOMAIN-SUFFIX,iheima.com
+DOMAIN-SUFFIX,iyiou.com
+DOMAIN-SUFFIX,pedaily.cn
+
+# > 视频补充
+DOMAIN-SUFFIX,baofeng.com
+DOMAIN-SUFFIX,pearvideo.com
+DOMAIN-SUFFIX,miaopai.com
+DOMAIN-SUFFIX,pipix.com
+
+# > 学习补充
+DOMAIN-SUFFIX,chaoxing.com
+DOMAIN-SUFFIX,yuketang.cn
+DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,xiaoe-tech.com
+
+# > 快递补充
+DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,fcbox.com
+
+# > 银行补充
+DOMAIN-SUFFIX,bankofbeijing.com.cn
+DOMAIN-SUFFIX,bankofshanghai.com
+DOMAIN-SUFFIX,jsbchina.cn
+DOMAIN-SUFFIX,czbank.com
+DOMAIN-SUFFIX,nbcb.com.cn
+DOMAIN-SUFFIX,hzbank.com.cn
+DOMAIN-SUFFIX,njcb.com.cn
+DOMAIN-SUFFIX,hsbank.com.cn
+DOMAIN-SUFFIX,cqcbank.com
+DOMAIN-SUFFIX,bocd.com.cn
+DOMAIN-SUFFIX,zzbank.cn
+DOMAIN-SUFFIX,cscb.cn
+DOMAIN-SUFFIX,gzcb.com.cn
+DOMAIN-SUFFIX,hrbb.com.cn
+DOMAIN-SUFFIX,bankoftianjin.com
+
+# > 酒店
+DOMAIN-SUFFIX,huazhu.com
+DOMAIN-SUFFIX,jinjiang.com
+DOMAIN-SUFFIX,bthhotels.com
+DOMAIN-SUFFIX,atour.com.cn
+DOMAIN-SUFFIX,998.com
+
+# > 票务/演出
+DOMAIN-SUFFIX,damai.cn
+DOMAIN-SUFFIX,taopiaopiao.com
+DOMAIN-SUFFIX,228.com.cn
+
+# > 动漫/漫画
+DOMAIN-SUFFIX,kuaikanmanhua.com
+DOMAIN-SUFFIX,u17.com
+
+# > 词典/翻译
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,eudic.net
+
+# > 记账/理财补充
+DOMAIN-SUFFIX,feidee.com
+DOMAIN-SUFFIX,wacai.com
+
+# > 宠物/鲜花
+DOMAIN-SUFFIX,boqii.com
+DOMAIN-SUFFIX,hua.com
+
+# > 电商垂直补充
+DOMAIN-SUFFIX,jiuxian.com
+DOMAIN-SUFFIX,womai.com
+DOMAIN-SUFFIX,benlai.com
+DOMAIN-SUFFIX,dmall.com
+DOMAIN-SUFFIX,yonghui.com.cn
+DOMAIN-SUFFIX,wumart.com
+DOMAIN-SUFFIX,walmart.cn
+DOMAIN-SUFFIX,samsclub.cn
+
+# > 视频补充
+
+# > 音乐补充
+DOMAIN-SUFFIX,qishui.com
+
+# > 阅读补充
+DOMAIN-SUFFIX,qimao.com
+DOMAIN-SUFFIX,lrts.me
+
+# > 出行补充
+DOMAIN-SUFFIX,caocao.com
+
+# > 智能家居补充
+DOMAIN-SUFFIX,aligenie.com
+
+# > 游戏补充
+DOMAIN-SUFFIX,kurogame.com
+
+# > 直播补充
+DOMAIN-SUFFIX,longzhu.com
+DOMAIN-SUFFIX,zhanqi.tv
+DOMAIN-SUFFIX,zhibo8.com
+
+# > 券商补充
+DOMAIN-SUFFIX,htsec.com
+DOMAIN-SUFFIX,chinastock.com.cn
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,cicc.com
+DOMAIN-SUFFIX,gf.com.cn
+DOMAIN-SUFFIX,newone.com.cn
+
+# > 航司补充
+DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,capitalairlines.com
+DOMAIN-SUFFIX,tianjin-air.com
+DOMAIN-SUFFIX,westair.cn
+DOMAIN-SUFFIX,luckyair.net
+DOMAIN-SUFFIX,9air.com
+
+# > 体育/社区补充
+
+# > 券商补充
+DOMAIN-SUFFIX,htsec.com.cn
+DOMAIN-SUFFIX,swhysc.com
+DOMAIN-SUFFIX,founder.com.cn
+DOMAIN-SUFFIX,cjsc.com.cn
+DOMAIN-SUFFIX,nesc.cn
+DOMAIN-SUFFIX,swsc.com.cn
+DOMAIN-SUFFIX,dwzq.com.cn
+DOMAIN-SUFFIX,njzq.com.cn
+DOMAIN-SUFFIX,gyzq.com.cn
+DOMAIN-SUFFIX,ghsec.com
+DOMAIN-SUFFIX,firstcapital.com.cn
+DOMAIN-SUFFIX,ctsec.com
+DOMAIN-SUFFIX,cindasc.com
+DOMAIN-SUFFIX,cczq.com
+DOMAIN-SUFFIX,hazq.com
+DOMAIN-SUFFIX,tfzq.com
+DOMAIN-SUFFIX,glsc.com.cn
+DOMAIN-SUFFIX,hx168.com.cn
+
+# > 相机/修图
+DOMAIN-SUFFIX,qingyan.com
+DOMAIN-SUFFIX,xingtu.com
+DOMAIN-SUFFIX,meiyan.com
+
+# > 家电/科技硬件
+DOMAIN-SUFFIX,skyworth.com
+DOMAIN-SUFFIX,changhong.com
+DOMAIN-SUFFIX,konka.com
+DOMAIN-SUFFIX,dahuatech.com
+DOMAIN-SUFFIX,hikvision.com
+DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,ecovacs.com
+DOMAIN-SUFFIX,roborock.com
+DOMAIN-SUFFIX,dreame.com
+DOMAIN-SUFFIX,narwal.com
+DOMAIN-SUFFIX,sensetime.com
+DOMAIN-SUFFIX,megvii.com
+DOMAIN-SUFFIX,cambricon.com
+DOMAIN-SUFFIX,hesai.com
+
+# > 第三方支付
+DOMAIN-SUFFIX,lakala.com
+DOMAIN-SUFFIX,huifu.com
+DOMAIN-SUFFIX,yeepay.com
+DOMAIN-SUFFIX,99bill.com
+DOMAIN-SUFFIX,lianlianpay.com
+DOMAIN-SUFFIX,bestpay.com.cn
+
+# > 运营商补充
+DOMAIN-SUFFIX,10099.com.cn
+
+# > 能源/国企服务
+DOMAIN-SUFFIX,csg.cn
+DOMAIN-SUFFIX,sinopec.com
+DOMAIN-SUFFIX,petrochina.com.cn
