@@ -1,0 +1,171 @@
+# 中国常用 App/服务直连规则集
+# 用法: RULE-SET,https://raw.githubusercontent.com/l2308/Surge-Script/master/China-Apps-Direct.list,DIRECT
+# 说明：域名本身不带策略，策略由引用处的 RULE-SET 行指定。含截图里确认过的红果/豆包/拼多多/番茄/京东/米家域名。
+
+# > 字节跳动
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaocdn.com
+DOMAIN-SUFFIX,toutiaocloud.com
+DOMAIN-SUFFIX,toutiaocloud.net
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,xigua.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,qznovelvod.com
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,fqnovelvod.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaocdn.com
+DOMAIN-SUFFIX,jianying.com
+DOMAIN-SUFFIX,volcengine.com
+
+# > 腾讯
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,qidian.com
+
+# > 阿里
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,gaode.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,cainiao.com
+
+# > 百度
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,baidubce.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,qiyi.com
+
+# > 京东
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buy.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,3.cn
+
+# > 拼多多
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,yangkeduo.com
+
+# > 小米
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,mi-img.com
+
+# > 美团
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,sankuai.com
+
+# > 微博/新浪
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sinaimg.cn
+
+# > 网易
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,youdao.com
+
+# > 快手
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,gifshow.com
+
+# > 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+
+# > 哔哩哔哩
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bilibili.tv
+
+# > 知乎
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
+# > 滴滴/出行
+DOMAIN-SUFFIX,didi.cn
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,hellobike.com
+
+# > 携程/旅行
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,tongcheng.com
+DOMAIN-SUFFIX,elong.com
+
+# > 12306
+DOMAIN-SUFFIX,12306.cn
+
+# > 视频/直播
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cntv.cn
+DOMAIN-SUFFIX,yangshipin.cn
+
+# > 音乐/音频
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,ximalaya.com
+
+# > 其他常用
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,vmall.com
+DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,vivo.com.cn
+DOMAIN-SUFFIX,honor.com
+DOMAIN-SUFFIX,realme.com
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,edu.cn
