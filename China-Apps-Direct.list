@@ -1,4 +1,4 @@
-# 中国 Top2000 常用 App/服务直连规则集（实测 2053 个域名）
+# 中国 Top2000 常用 App/服务直连规则集（实测 2075 个域名）
 # 用法: RULE-SET,https://raw.githubusercontent.com/l2308/Surge-Script/master/China-Apps-Direct.list,DIRECT
 # 标准：按真实使用量（月活/下载量）收录，只收国内确实有大规模用户的 App/服务；
 # 全部域名经 DNS 验证存在（NXDOMAIN/SERVFAIL 已删）。目标是 Top2000，但宁缺毋滥，
@@ -2220,3 +2220,27 @@ DOMAIN-SUFFIX,zhangzs.com
 DOMAIN-SUFFIX,zhuanlan.zhihu.com
 DOMAIN-SUFFIX,zhuanzfx.com
 DOMAIN-SUFFIX,zijieapi.com
+
+# > 国内 AI（2026-11-08 补充：GlobalAI 里的国内 AI 域名，原先走代理，现改直连）
+DOMAIN-SUFFIX,api.minimaxi.com
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,coze.cn
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,hailuoai.com
+DOMAIN-SUFFIX,hunyuan.tencentcloudapi.com
+DOMAIN-SUFFIX,kimi.ai
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,minimax.io
+DOMAIN-SUFFIX,moonshot.ai
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,qwenlm.ai
+DOMAIN-SUFFIX,stepfun.ai
+DOMAIN-SUFFIX,stepfun.com
+DOMAIN-SUFFIX,tongyi.com
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,zhipucn.com
