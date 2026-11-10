@@ -1,0 +1,10 @@
+# Yahoo Mail 规则集
+# 用法: RULE-SET,https://raw.githubusercontent.com/l2308/Surge-Script/master/YahooMail.list,Proxy
+# 说明：雅虎邮箱及相关域名，走代理。yahoo.com 覆盖 mail.yahoo.com、login.yahoo.com 等；
+# ymail.com / rocketmail.com 是老用户域名，myyahoo.com 是新用户可选域名，yimg.com 是雅虎 CDN（邮件图片）。
+
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,ymail.com
+DOMAIN-SUFFIX,myyahoo.com
+DOMAIN-SUFFIX,rocketmail.com
+DOMAIN-SUFFIX,yimg.com
