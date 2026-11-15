@@ -1,0 +1,9 @@
+# NAME: Muse
+
+# DESCRIPTION: 访问 Muse 的域名，走代理
+
+# TOTAL: 2
+
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,ai.meta.com
+# DOMAIN-SUFFIX,meta.com （订阅/帮助页，与其他 Meta 服务共用，按需取消注释）
